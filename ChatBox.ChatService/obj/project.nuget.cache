@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z5n0/ZilnaE=",
+  "dgSpecHash": "mvlZHmqQWZo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
+  "projectFilePath": "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Venkat Reddy\\.nuget\\packages\\jquery\\1.6.4\\jquery.1.6.4.nupkg.sha512",
     "C:\\Users\\Venkat Reddy\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.3\\microsoft.aspnet.signalr.2.4.3.nupkg.sha512",

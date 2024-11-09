@@ -1,0 +1,6 @@
+# Ignore node_modules in frontend
+chatbox-chatapp/node_modules
+
+# Ignore build output from .NET backend
+ChatBox-ChatService/bin
+ChatBox.ChatService/obj

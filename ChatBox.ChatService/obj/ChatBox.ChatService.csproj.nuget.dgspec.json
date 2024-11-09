@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\ChatBox.ChatService.csproj": {}
+    "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\ChatBox.ChatService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\ChatBox.ChatService.csproj": {
+    "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\ChatBox.ChatService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
+        "projectUniqueName": "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
         "projectName": "ChatBox.ChatService",
-        "projectPath": "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
+        "projectPath": "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\ChatBox.ChatService.csproj",
         "packagesPath": "C:\\Users\\Venkat Reddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Venkat Reddy\\Desktop\\dotnet\\ChatBox.ChatService\\obj\\",
+        "outputPath": "C:\\Users\\Venkat Reddy\\Desktop\\copy\\ChatBox.ChatService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Venkat Reddy\\AppData\\Roaming\\NuGet\\NuGet.Config"
